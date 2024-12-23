@@ -1,6 +1,9 @@
 # Designing LLM Applications
 
-This notebook is a collection of notes and coding execersies from the book Designing Large Language Model Applications - Suhas Pai. 
+This notebook is a collection of notes and coding execersies a variety of topics regarding LLM applications to become a professional LLM developer.
+
+Books Include: 
+• Designing Large Language Model Applications - Suhas Pai. 
 
 This lays the foundations of building and deploying LLM applications in a professional environment and serves as a reference for future development of LLM applications. 
 
