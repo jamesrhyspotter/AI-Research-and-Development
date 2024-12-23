@@ -1,4 +1,4 @@
-# designing_llm_applications
+# Designing LLM Applications
 
 This notebook is a collection of notes and coding execersies from the book Designing Large Language Model Applications - Suhas Pai. 
 
