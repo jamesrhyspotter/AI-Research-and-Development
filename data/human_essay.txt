@@ -1,0 +1,130 @@
+Mobile Developers Have Lost Their Glory, and Here’s Why
+Pen Magnet
+Level Up Coding
+Pen Magnet
+
+·
+Follow
+
+Published in
+Level Up Coding
+
+·
+7 min read
+·
+Jul 25, 2024
+1.2K
+
+
+34
+
+
+
+
+
+Partly, it’s the AI train. But there’s more.
+
+
+Photo by Christina @ wocintechchat.com on Unsplash
+As a long-time mobile developer, I am eager to know the latest trends in Apple, Android, and cross-platform ecosystems. However, the recent signals from the industry are not very exciting.
+
+This post isn’t about what got shoved down developers’ throats in the latest WWDC or Google I/O. It’s about how the ongoing trends affect developers’ careers.
+
+Mobile developer jobs are vanishing fast — at least that’s what I see from my LinkedIn search. There is also an interesting Reddit thread regarding it, supported by StackOverflow developer survey developer count stats: The number of mobile dev survey respondents went from 12.45% to 3.38%.
+
+While the results of an industry-leading forum cannot be considered reflective enough, collective feedback in online + offline forums is too sizable to ignore.
+
+How we ended up here:
+Just less than a decade ago, mobile development was the coolest technology. Every leading tech company was trying to conquer both the platforms: iOS and Android.
+
+For almost half a decade, the battle kept raging between native and cross-platform. Before that, Cordova, Xamarin, and Titanium were the buzzwords on every tech manager’s lips. These frameworks weren’t technically superior, but they were successful in maintaining the industry’s favorite disbelief about “Develop Once, Publish Everywhere, Save Money”.
+
+The 2nd wave of the same category came up in the form of cross-platform frameworks like React Native and Flutter. Facebook and Google hailed them as fully-native.
+
+But only coders who toiled with them every day knew how short they fell when it came to developing a sizable app with smooth, performant, and exploitative (making use of sensor capabilities — something that makes mobile experience deep and personal) UX — the biggest component of the human-computer interaction when it came to smartphone.
+
+Although developed by Facebook and Google, their entire growth story was propagated by agencies who had to sell their developers to big clients. In offering development cost-reduction as the value proposition, they started singing the cross-platform chorus from the bottom of their lungs. To boost their agency portfolios, they also inflated the GitHub repos of the respective frameworks by developing components. Facebook and Google developers relished watching their side projects booming. Everyone was happy.
+
+In reality, cross-platform projects cost owning orgs way more in the long run, due to obvious shortcomings of the approach:
+
+Offering only the most common denominator of both platforms.
+Developer fatigue (Beyond Hello World, Devs had to learn native anyway)
+Open source (and thus, no accountability held) development.
+There were also interesting adoption wars between fully-native cross-platform tools (Unity and its friends) vs loyally-native XCode and Eclipse, although, by design, this battle remained limited to game development.
+
+Did these wars weaken mobile development careers? Not quite. But they surely fragmented an average dev’s perception of the industry. Newbie devs were eager to jump and “learn that one thing (cross-platform)” that would be their one-way ticket into the IT industry, only to be disappointed later. Oldies kept hold of time-tasted stuff (C++, Java, and later Swift, Kotlin) but often found it hard to fight in the market that kept wobbling their seats, for one or the other reason.
+
+Especially, the shakedowns.
+
+Was it the AI, or something else?
+It seems that with the arrival of GenAI, the discourse on mobile development has been mooted.
+
+However, the first domino of mobile development fell in 2017 when the Cambridge Analytica skeleton came out of Facebook’s closet.
+
+The idea of democracy in the Western world is closely tied to privacy. Tracking users without consent became the sin that was so far unacknowledged. CA scandal triggered governmental attacks upon big tech on a worldwide scale.
+
+Facebook was in the direct line of fire. Google being the biggest smartphone market stakeholder and also a prominent worldwide employer + government service provider (GCP, Google education, etc), managed to buy time. To comply, it made several changes to its ad offerings and monetization SDK. Android developers, whose revenue streams revolved around ads, had to drag along or lose the market.
+
+Apple took the high ground around privacy and chose to become the guy holding the stick, giving the power of ad-tracking into users’ hands. Facebook became the biggest victim of this move. To support this position, Apple began to hail its highly touted subscription model as the gold standard of app development. 2020 was the first year when Apple began to improve its highly-loathed support for subscription API.
+
+Privacy compliance shook the mobile development industry like no other shakedown. Indie devs suffered the most, but companies slowed down, too. Developer time that could be utilized in creating new frameworks began to be wasted in endless Q&A with support and legal professionals, quick fixes, and useless discussions with business owners.
+
+On a parallel track, no-code was on the rise. While its success was far from validated, it became a dominant point in management discussions and became a serious contender to mainstream development.
+
+Several small development firms chose to pivot to no-code/web dev offerings. Big companies stopped taking big risks in mobile deliveries. Budgets stopped flowing towards open-source initiatives. Maintaining the store ratings became the new focal point, for which pre-developed capabilities were mostly enough.
+
+“Don’t break what’s already working. Don’t venture to create anything awesome, as we don’t know what awesome means.” became the new mantra.
+
+Mobile devs weren’t able to handle this shift in their favor. Why? This brings us to our next point.
+
+Where does the true power of mobile developers lie?
+It all comes down to what truly defines a good mobile developer.
+
+The standard definition of a good developer (“designer, coder, tester”) does not fully define a good mobile developer.
+
+There is very little agreement about “What makes a great mobile developer.” Mobile dev skills have very little differentiation from web development skills.
+
+What makes a great mobile app has to do more with UX and UI, coupled with deft usage of smartphone sensors. The standard definition of a good developer (“designer of the program, coder, tester”) does not fully define a good mobile developer. One has to be a good developer to begin with, but there’s more.
+
+Bindings (UI + database + API) have to be figured out. The one with the architectural fit must be chosen. Is MVC enough? Or do you require a View model? What about opinionated patterns such as coordinator?
+
+The bad thing about design is that there are no proven validators. The sole indicator of a good design is whether future devs build upon one despite their competence + proactiveness.
+
+When it comes to mobile development, the workflows of the hardware integration have also to be mastered. Examples? Bluetooth, Accelerometer, light sensor, Gyro etc. This is where Embedded engineers shine. Fintech (Apple and Google Pay) adds another dimension: NFC.
+
+While successful integration of all of this requires non-trivial effort + time, from the management/leadership perspective, they are simple boxes with identical plug-and-play interfaces. Despite its deeper penetration and personal experience, mobile continues to be an auxiliary outlet in the company’s IT strategy, despite the “Mobile-first” buzzword.
+
+A decent mobile app codebase requires a dedicated architect, but small teams rarely get one. Even big firm teams cut corners due to platform fragmentation.
+
+Only big companies can afford to develop reusable libraries and frameworks. Teams in small and medium firms have no moat to justify elongated efforts when platform giants can break anything any day.
+
+Unlike the web, where perception of greatness comes from individual creators, mobile app’s greatness is defined by platforms: Apple and Google. Human Interface Guidelines and Material design standards shepherd the industry’s expectations.
+
+In the most cases, however, they remain underdemonstrated. This is because standards that define great apps were created when no such examples existed beforehand. Their samples are mostly barebones that devs must build upon.
+
+This is reductionist by design and thwarts many possible innovations, and only the ones that get rewarded by platforms (Android and Apple editors’ choice arena) keep getting replicated.
+
+An outstanding mobile experience that supersedes the standards is an exception (where again, designers play a huge part). The rule is being a sheep in the herd which even the most exceptional mobile devs have to tread along.
+
+If an indie mobile developer surprises the world by showing what he/she can add to the barebone platforms, the platforms go as far as sherlocking his/her creation and branding it as their own.
+
+Conclusion:
+AI (specifically GenAI) is sucking dollars from every other department. Managers want to prove they aren’t missing the FOMO train, despite knowing it’s FOMO.
+
+Until mobile-sized LLMs become a reality, there is little possibility mobile devs can shine again. There again, they will have to share the glory with data scientists.
+
+When times are great, all devs organically grow towards the biggest buck in town. When times are not so great but still good, competent devs aim to multiply their impact by creating frameworks, libraries, and reusable components. Low to medium-skilled developers, inspired by the top tier, begin upskilling themselves. When they can no longer find that route, they switch fields. They leave the narrow streams (mobile development) and begin swimming in the ocean, with the following pattern:
+
+All Devices of the same platform (Mac, Vision pro) => Cross-platform (iOS + Android) => Web development (+web).
+
+When times get worse, most sailors leave the ship. Captains stay. But when pirates take hold, they get slaughtered too. If the ship is fortunate, pirates think about rebuilding.
+
+Entry-level devs or those from the sidelined fields are those pirates. Hired as placeholders, they keep the ship floating, until a veteran rediscovers it.
+
+That’s where mobile development lies today. It hasn’t been doomed. It never will be. It’s being kept at its 2015 level by entry-mid-level developers.
+
+This lot is keen to show off its skills by building portfolio apps, doesn’t want to buy a domain/hosting, and is discouraged by 500+ NPM/Yarn packages.
+
+Will those newbies be able to recapture the platforms? More importantly, will they find the field worthy of their creation love? The only way is through going beyond mere software development and becoming the master of hardware + design.
+
+In times when money-guzzling AI is reshaping everyone’s expectations, that possibility isn’t in sight.
