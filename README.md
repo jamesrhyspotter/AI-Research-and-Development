@@ -1,4 +1,4 @@
-# Designing LLM Applications
+# LLM Mastery
 
 This notebook is a collection of notes and coding execersies a variety of topics regarding LLM applications to become a professional LLM developer.
 
