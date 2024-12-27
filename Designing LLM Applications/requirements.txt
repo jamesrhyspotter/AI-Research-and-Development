@@ -1,3 +1,4 @@
+anthropic
 chromadb
 ipykernel
 pip
@@ -5,11 +6,16 @@ diversity
 spacy
 nltk
 packaging
-openai
-langchain
-gradio
+openai==0.28.1
+langchain==0.0.316
+tokenizers==0.20.3
+transformers
+# langchain-huggingface
+gradio==4.44.1
 unstructured
 langchain-community
+langchain-anthropic
+langchain-huggingface
 pydantic
 pdfminer.six
 pi_heif
@@ -18,3 +24,4 @@ unstructured_pytesseract
 pytesseract
 poppler-utils
 sentence_transformers
+pdfsearch
