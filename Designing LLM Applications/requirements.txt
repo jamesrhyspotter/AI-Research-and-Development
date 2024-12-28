@@ -1,6 +1,7 @@
 anthropic
 chromadb
 ipykernel
+justext
 pip
 diversity
 spacy
