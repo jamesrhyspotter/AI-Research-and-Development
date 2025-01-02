@@ -1,6 +1,6 @@
-# LLM Mastery
+# AI Research and Development
 
-This notebook is a collection of notes and coding execersies a variety of topics regarding LLM applications to become a professional LLM developer and Researcher.
+This notebook is a collection of projects pertaining to AI in order to exhibit comptenecies as an LLM developer and Researcher.
 
 Books Include: 
 • Designing Large Language Model Applications - Suhas Pai. 
